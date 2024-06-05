@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- [![roadmap.sh](https://roadmap.sh/card/tall/6660eb3eb998f3b3c7d55ad3?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/6660eb3eb998f3b3c7d55ad3?variant=dark)](https://roadmap.sh)
 
 <!---
 lujo18/lujo18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
