@@ -4,6 +4,8 @@
 - 📫 How to reach me @lujotypes on X
 - ⚡ Fun fact: First coding experience was with Scratch
 
+[![wakatime](https://wakatime.com/badge/user/34b1dd6f-aef9-49b3-acbb-bc6d565ca45b.svg)](https://wakatime.com/@34b1dd6f-aef9-49b3-acbb-bc6d565ca45b)
+
 [![roadmap.sh](https://roadmap.sh/card/tall/6660eb3eb998f3b3c7d55ad3?variant=dark)](https://roadmap.sh)
 
 <!---
