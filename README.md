@@ -1,14 +1,9 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Lujo;CS+Student+%40+UW+Oshkosh;Building+AI-powered+tools+with+React+%26+FastAPI" alt="Typing SVG" />
-</div>
-
 <h2 align="center">👨‍💻 About Me</h2>
 
-- 🎓 **Computer Science** undergrad @ University of Wisconsin Oshkosh (Expected Dec 2027) • 3.93 GPA
-- 💻 1,100+ hours self-taught coding (tracked via WakaTime) — grinding since day 0
+- 🎓 **Computer Science** undergrad @ University of Wisconsin Oshkosh (Expected Dec 2027)
+- 💻 1,100+ hours self-taught coding (tracked via WakaTime)
 - 🚀 Currently building **Radius**: Full-stack SaaS for automated TikTok content creation
 - 🔭 Passionate about **full-stack dev**, **AI/LLMs**, automation, and mobile apps
-- 🌱 Always learning: Just shipped features with Appwrite + GitHub Student perks
 - 📍 Oshkosh, WI → Open to remote internships & collaborations
 
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -16,18 +11,18 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,fastapi,sqlite,postgres,firebase,git,stripe" />
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,supabase,redux,zustand,tanstack" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,supabase,zustand,tanstack" />
 </p>
 
 <h2 align="center">🔥 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lujotypes&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lujotypes&theme=radical&hide_border=true" alt="Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lujo18&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lujo18&theme=radical&hide_border=true" alt="Streak Stats" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lujotypes&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lujo18&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <!-- Add your WakaTime badge here if you have one -->
@@ -37,13 +32,13 @@
 
 <p align="center">
   <!-- Pin these in your profile for them to show up big -->
-  <a href="https://github.com/lujotypes/radius"><strong>Radius</strong></a> — AI-powered TikTok slideshow automation SaaS (React, FastAPI, Supabase, Stripe)
+  <a href="https://github.com/lujo18/radius"><strong>Radius</strong></a> — AI-powered TikTok slideshow automation SaaS (React, FastAPI, Supabase, Stripe)
   <br>
-  <a href="https://github.com/lujotypes/pinglo"><strong>Pinglo</strong></a> — Mobile app turning voice notes into AI relationship insights (React Native, Firebase, LLMs)
+  <a href="https://github.com/lujo18/pinglo"><strong>Pinglo</strong></a> — Mobile app turning voice notes into AI relationship insights (React Native, Firebase, LLMs)
   <br>
-  <a href="https://github.com/lujotypes/apartment-aggregator"><strong>Apartment Aggregator</strong></a> — Smart rental scraper & deal ranker (Python, Web Scraping)
+  <a href="https://github.com/lujo18/apartment-aggregator"><strong>Apartment Aggregator</strong></a> — Smart rental scraper & deal ranker (Python, Web Scraping)
   <br>
-  <a href="https://github.com/lujotypes/youtube-review-summarizer"><strong>YouTube Review Summarizer</strong></a> — AI-powered pros/cons generator from video reviews (Node.js, React, LLMs)
+  <a href="https://github.com/lujo18/youtube-review-summarizer"><strong>YouTube Review Summarizer</strong></a> — AI-powered pros/cons generator from video reviews (Node.js, React, LLMs)
 </p>
 
 <h2 align="center">📫 Let's Connect</h2>
@@ -55,11 +50,12 @@
   <!-- Add portfolio if you have one -->
 </p>
 
-<div align="center">
+<div align="center" flex-direction="row">
   <img src="https://komarev.com/ghpvc/?username=lujotypes&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views" />
+  [![wakatime](https://wakatime.com/badge/user/34b1dd6f-aef9-49b3-acbb-bc6d565ca45b.svg)](https://wakatime.com/@34b1dd6f-aef9-49b3-acbb-bc6d565ca45b)
 </div>
 
-[![wakatime](https://wakatime.com/badge/user/34b1dd6f-aef9-49b3-acbb-bc6d565ca45b.svg)](https://wakatime.com/@34b1dd6f-aef9-49b3-acbb-bc6d565ca45b)
+
 
 <!--[![roadmap.sh](https://roadmap.sh/card/tall/6660eb3eb998f3b3c7d55ad3?variant=dark)](https://roadmap.sh)--->
 
