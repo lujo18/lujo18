@@ -17,12 +17,9 @@
 <h2 align="center">🔥 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lujo18&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lujo18&theme=radical&hide_border=true" alt="Streak Stats" width="48%" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lujo18&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <!-- Add your WakaTime badge here if you have one -->
