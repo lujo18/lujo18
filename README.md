@@ -52,7 +52,7 @@
 
 <div align="center" flex-direction="row">
   <img src="https://komarev.com/ghpvc/?username=lujotypes&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views" />
-  [![wakatime](https://wakatime.com/badge/user/34b1dd6f-aef9-49b3-acbb-bc6d565ca45b.svg)](https://wakatime.com/@34b1dd6f-aef9-49b3-acbb-bc6d565ca45b)
+ <image-card alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_GITHUB_USERNAME&theme=radical" ></image-card>
 </div>
 
 
