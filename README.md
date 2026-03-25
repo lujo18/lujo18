@@ -46,11 +46,11 @@
   <!-- Add portfolio if you have one 
 </p> -->
 
-<div align="center" flex-direction="row">
+<!-- <div align="center" flex-direction="row">
   <img src="https://komarev.com/ghpvc/?username=lujotypes&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views" />
  <image-card alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_GITHUB_USERNAME&theme=radical" ></image-card>
-</div>
-
+</div> -->
+[![wakatime](https://wakatime.com/badge/user/34b1dd6f-aef9-49b3-acbb-bc6d565ca45b.svg)](https://wakatime.com/@34b1dd6f-aef9-49b3-acbb-bc6d565ca45b)
 
 
 <!--[![roadmap.sh](https://roadmap.sh/card/tall/6660eb3eb998f3b3c7d55ad3?variant=dark)](https://roadmap.sh)--->
