@@ -4,7 +4,6 @@
 - 💻 1,100+ hours self-taught coding (tracked via WakaTime)
 - 🚀 Currently building **Radius**: Full-stack SaaS for automated TikTok content creation
 - 🔭 Passionate about **full-stack dev**, **AI/LLMs**, automation, and mobile apps
-- 📍 Oshkosh, WI → Open to remote internships & collaborations
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
