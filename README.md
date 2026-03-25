@@ -24,10 +24,10 @@
 <!-- Add your WakaTime badge here if you have one -->
 <!-- Example: <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" alt="WakaTime" /> -->
 
-<h2 align="center">🚀 Featured Projects</h2>
+<!-- <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  <!-- Pin these in your profile for them to show up big -->
+  <!-- Pin these in your profile for them to show up big 
   <a href="https://github.com/lujo18/radius"><strong>Radius</strong></a> — AI-powered TikTok slideshow automation SaaS (React, FastAPI, Supabase, Stripe)
   <br>
   <a href="https://github.com/lujo18/pinglo"><strong>Pinglo</strong></a> — Mobile app turning voice notes into AI relationship insights (React Native, Firebase, LLMs)
@@ -43,8 +43,8 @@
   <a href="https://x.com/lujotypes"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://linkedin.com/in/luke-johnson-..."><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:johnsonlu64@uwosh.edu"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <!-- Add portfolio if you have one -->
-</p>
+  <!-- Add portfolio if you have one 
+</p> -->
 
 <div align="center" flex-direction="row">
   <img src="https://komarev.com/ghpvc/?username=lujotypes&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views" />
