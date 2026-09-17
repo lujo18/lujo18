@@ -1,13 +1,10 @@
-<h2 align="center">👨‍💻 About Me</h2>
+<!-- <h2 align="center">👨‍💻 About Me</h2>
 
-- 🎓 **Computer Science** undergrad @ University of Wisconsin Oshkosh (Expected Dec 2027)
-- 💻 1,100+ hours self-taught coding (tracked via WakaTime)
-- 🚀 Currently building **Radius**: Full-stack SaaS for automated TikTok content creation
-- 🔭 Passionate about **full-stack dev**, **AI/LLMs**, automation, and mobile apps
+- 🎓 **Computer Science** undergrad @ University of Wisconsin Oshkosh (Expected Dec 2027) -->
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<!-- <h2 align="center">🛠️ Tech Stack</h2> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,fastapi,sqlite,postgres,firebase,git,stripe" />
   <br>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,supabase,zustand,tanstack" />
@@ -19,7 +16,7 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lujo18&theme=radical&hide_border=true" alt="Streak Stats" width="48%" />
 
-</div>
+</div> -->
 
 <!-- Add your WakaTime badge here if you have one -->
 <!-- Example: <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" alt="WakaTime" /> -->
